@@ -1,0 +1,216 @@
+.nav-logo {
+    font-weight: bold;
+    padding: 10px;
+    border-width: 2px;
+   
+}
+
+.logo-image{
+    height:35px;
+    width:35px;
+}
+.portfolio-nav-container {
+    background-color:#1f2933;
+    margin-top:50px;
+}
+
+.porfolio-nav-image{
+    border-radius:50px;
+    width:100%;
+}
+.nav-heading{
+    color:white;
+    font-family:"Roboto";
+    font-size:30px;
+}
+
+.nav-para{
+    color:#9aa5b1;
+    font-size:20px;
+    font-family:"Roboto";
+}
+
+/* about page */
+
+.about-container{
+    background-color:#323f4b;
+  
+}
+.about-para{
+    color:#cced00;
+    font-size:20px;
+    font-family:"Roboto";
+}
+.about-image{
+    width:100%;
+}
+.about-heading{
+    color:white;
+    font-size:30px;
+    font-weight:bold;
+    font-family:"Roboto";
+}
+
+.button-color{
+    color:white;
+}
+.about-paragraph{
+    color:#9aa5b1;
+    font-size:15px;
+    font-family:"Roboto";
+}
+.skills-container{
+    background-color:#1f2933;
+    padding-bottom:20px;
+}
+
+.skills-image{
+    height:70px;
+    width:70px;
+}
+.skills-image-container{
+    background-color: #323f4b;
+    border-radius:10px;
+    height:150px;
+    width:150px;
+    text-align:center;
+    padding:20px;
+}
+.skill-title{
+    color:white;
+    font-weight:bold;
+    font-family:"Roboto";
+    font-size:20px;
+}
+
+.ps-bg-container {
+    background-color: #3e4c59;
+}
+
+.heading {
+    color:#cced00 ;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.paragraph {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 800;
+
+}
+
+.card {
+    background-color: #323f4b;
+    border-radius: 8px;
+
+
+}
+
+.card-heading {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 15px;
+
+}
+
+.card-sub {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.card-para {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.rr {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 15px;
+
+}
+
+/*services*/
+.wss-bg-container {
+    background-color: #52606d;
+
+}
+
+.wss-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.wss-para {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.services-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+
+}
+
+.services-image {
+    height: 50px;
+    width: 50px;
+}
+
+.services-card-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #cced00;
+    font-weight: 500;
+}
+
+.services-card-para {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #9aa5b1;
+
+
+}
+
+/* footer */
+
+
+.port-footer-container{
+    background-color:#0d2436;
+}
+.footer-image{
+    height:100px;
+    width:100px;
+    border-radius:200px;
+    padding:10px;
+}
+
+.foot-heading{
+    color:#cced00;
+    font-size:25px;
+    font-style:"Roboto";
+}
+.foot-para{
+    color:#9aa5b1;
+    font-size:16px;
+    font-family:"Roboto";
+}
+.icon{
+    color:#9aa5b1;
+    margin-right:10px;
+}
+.foot-title{
+    color:#9aa5b1;
+    
+}
+.footer-bottom{
+    background-color: #001c32;
+}
